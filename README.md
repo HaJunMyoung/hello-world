@@ -1,9 +1,11 @@
 # hello-world
+
 For learning Git
 
 # Learnt
--How to create a repository
 
--How to create a new branch
+- How to create a repository
 
--What is 'commit' and 'pull'
+- How to create a new branch
+
+- What is 'commit' and 'pull'
