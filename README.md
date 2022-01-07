@@ -2,6 +2,8 @@
 
 For learning Git
 
+this is just a testing
+
 # Learnt
 
 - How to create a repository
